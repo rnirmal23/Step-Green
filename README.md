@@ -1,22 +1,9 @@
-# Forest
+# Step Green
 
 Track your daily step count, stay healthy and fight the climate change, one step at a time.
 
 ![banner](https://user-images.githubusercontent.com/60577942/221682753-a0251f61-63e0-4ae9-bb40-2854864cebc3.jpg)
 
-## 🦁 Table of Contents
-
-
-- [Forest](#forest)
-  - [🦁 Table of Contents](#-table-of-contents)
-  - [🌳 Inspiration](#-inspiration)
-  - [🥕 Features](#-features)
-  - [🐻‍❄️ Installation and First Launch](#️-instalation-and-first-launch)
-  - [🪴 Technologies](#-technologies)
-
-## 🌳 Inspiration
-
-A couple of years ago together with my friends, I took a part in a programming competition. The objective was to build a mobile app that solves a global problem. We didn't win, but the app we built quickly spread in our families.
 
 ## 🥕 Features
 
@@ -32,15 +19,11 @@ A couple of years ago together with my friends, I took a part in a programming c
 
 ## 🐻‍❄️ Installation and First Launch
 
-1. Download the latest prebuilt binary (.apk file) from [Releases](https://github.com/bk20dev/forest/releases)
+1. Download the latest prebuilt binary (.apk file) from android studio.
 2. Run the downloaded file and temporarily allow instalation from unknown sources if prompted (turn it back off after installation).
 3. Click "Install" and wait for the app to install.
 4. On some devices you may encounter a Play Protect warning, but don't worry - the app is safe to use, and open-sourced. I'm just an unverified developer.
 5. You are now good to go 🚀.
-
-🚨 **Heads up!** On most devices you'll need to **turn off the app battery optimizations** for the app to count steps accurately. Forest uses a minimal amount of power and it won't impact your battery life.
-
-> Guide for Xiaomi Devices (MIUI 14). Go to `Settings > Apps > Manage Apps > Forest > Battery saver` and select "No restrictions"
 
 ## 🪴 Technologies
 
